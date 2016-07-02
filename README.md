@@ -1,23 +1,34 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Project Name}
-TODO: Write a project description
+# README 
+
+A template of README best practices to make your README simple to understand and easy to use. 
+
 ## Installation
-TODO: Describe the installation process
+
+Download to your project directory, add `README.md`, and commit:
+
+```sh
+curl -LO http://git.io/Xy0Chg
+git add README.md
+git commit -m "Use README Boilerplate"
+```
+
 ## Usage
-TODO: Write usage instructions
+
+Replace the contents of `README.md` with your project's:
+
+* Name
+* Description
+* Installation instructions
+* Usage instructions
+* Support instructions
+* Contributing instructions
+
+Feel free to remove any sections that aren't applicable to your project.
+
+## Support
+
+Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) for support.
+
 ## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-## History
-TODO: Write history
-## Credits
-TODO: Write credits
-## License
-TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
