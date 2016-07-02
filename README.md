@@ -3,15 +3,15 @@
 
 
 
-# MatConvNet Implementation for Deep Residual Networks 
+# Project Name
 
-By [V. Belagiannis](http://www.robots.ox.ac.uk/~vb/) and [A. Gupta](http://www.robots.ox.ac.uk/~ankush/).
+By [Stavros Kalaouzis](https://github.com/skalaouzis).
 
-Paper: [He, Kaiming, et al., "Identity Mappings in Deep Residual Networks", arXiv:1603.05027 (2016)](http://arxiv.org/abs/1603.05027).
+Paper: [name, name, name., "paper name", resource:number (2016)](http://www.google.com).
 
 ## Information
 
-We have reimplemented the paper "Identity Mappings in Deep Residual Networks" (http://arxiv.org/abs/1603.05027) in [MatConvNet](https://github.com/vlfeat/matconvnet) . This implementation is based on the lua-code from  [Kaiming He's](https://github.com/KaimingHe/resnet-1k-layers) repository. The implementation has been evaluated only in CIFAR-10 and CIFAR-100.
+bla bla
 
 0. The experiments have been conducted with the beta-20 version of [MatConvNet](https://github.com/vlfeat/matconvnet), which is included in the current project.
 
@@ -48,12 +48,12 @@ We have reimplemented the paper "Identity Mappings in Deep Residual Networks" (h
 
 ## Experiments
 
-The lowest error in both experiments is the following table. Error plots are following below.
+Bla bla
 
-|  Dataset  |  Error |
-|:---------:|:------:|
-|  CIFAR-10 |  5.98% |
-| CIFAR-100 | 24.07% |
+|  Dataset  |  Result |
+|:---------:|:-------:|
+| name.     |  5.98%  |
+| name      | 24.07%  |
 
 1.  CIFAR-10 error plot:
 ![cifar10](https://github.com/bazilas/matconvnet-ResNet/blob/master/cifar10.png "CIFAR-10")
